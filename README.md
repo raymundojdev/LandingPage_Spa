@@ -10,4 +10,4 @@
 
 <img src="img/spa5.png">
 
-<img src="img/spa6.png">
+<img src="img/spa7.png">
