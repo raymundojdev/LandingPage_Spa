@@ -1,5 +1,13 @@
 # LandingPage_Spa
 
+```
+TECNOLOGIAS UTILIZADAS:
+
+JAVASCRIPT *HTML *CSS 
+
+```
+
+
 <img src="img/spa1.png">
 
 <img src="img/spa2.png">
